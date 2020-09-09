@@ -5698,11 +5698,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta2\\src\\DevIO.App\\DevIO.App.csproj",
+      "projectUniqueName": "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta\\src\\DevIO.App\\DevIO.App.csproj",
       "projectName": "DevIO.App",
-      "projectPath": "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta2\\src\\DevIO.App\\DevIO.App.csproj",
+      "projectPath": "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta\\src\\DevIO.App\\DevIO.App.csproj",
       "packagesPath": "C:\\Users\\ldavidda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta2\\src\\DevIO.App\\obj\\",
+      "outputPath": "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta\\src\\DevIO.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5721,8 +5721,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta2\\src\\DevIO.Data\\DevIO.Data.csproj": {
-              "projectPath": "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta2\\src\\DevIO.Data\\DevIO.Data.csproj"
+            "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {
+              "projectPath": "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta\\src\\DevIO.Data\\DevIO.Data.csproj"
             }
           }
         }

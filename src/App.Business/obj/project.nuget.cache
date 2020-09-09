@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0QhCesjPdOCM6v1rP5Tnfr3REOhdjE0Ci6LsYpoSLI/4txVy2Gv1k8R6g2nfZv1tJiGBkL0kIGLMbc7D1MwCzQ==",
+  "dgSpecHash": "W6v676LN+U1QR2hbkAjiDqQw4uqEkZiAxdTSxAY3nzC2do7Cz+/NEief0GOKIDIyzN+dEEsFTqqIjJuoo4lBEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta2\\src\\App.Business\\DevIO.Business.csproj",
+  "projectFilePath": "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta\\src\\App.Business\\DevIO.Business.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

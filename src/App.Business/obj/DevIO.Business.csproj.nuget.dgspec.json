@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta2\\src\\App.Business\\DevIO.Business.csproj": {}
+    "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta\\src\\App.Business\\DevIO.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta2\\src\\App.Business\\DevIO.Business.csproj": {
+    "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta\\src\\App.Business\\DevIO.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta2\\src\\App.Business\\DevIO.Business.csproj",
+        "projectUniqueName": "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta\\src\\App.Business\\DevIO.Business.csproj",
         "projectName": "DevIO.Business",
-        "projectPath": "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta2\\src\\App.Business\\DevIO.Business.csproj",
+        "projectPath": "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta\\src\\App.Business\\DevIO.Business.csproj",
         "packagesPath": "C:\\Users\\ldavidda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta2\\src\\App.Business\\obj\\",
+        "outputPath": "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta\\src\\App.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

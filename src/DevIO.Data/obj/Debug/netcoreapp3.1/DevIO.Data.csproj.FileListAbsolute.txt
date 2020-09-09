@@ -10,3 +10,14 @@ C:\Users\ldavidda\Documents\Arquivos\dotNetCore\AppCompleta2\src\DevIO.Data\obj\
 C:\Users\ldavidda\Documents\Arquivos\dotNetCore\AppCompleta2\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
 C:\Users\ldavidda\Documents\Arquivos\dotNetCore\AppCompleta2\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
 C:\Users\ldavidda\Documents\Arquivos\dotNetCore\AppCompleta2\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\AppCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\AppCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\AppCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\AppCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\AppCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\AppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csprojAssemblyReference.cache
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\AppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\AppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\AppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\AppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Users\ldavidda\Documents\Arquivos\dotNetCore\AppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb
