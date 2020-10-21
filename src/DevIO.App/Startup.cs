@@ -39,7 +39,7 @@ namespace DevIO.App
                     Configuration.GetConnectionString("DefaultConnection")));
 
 
-            services.AddAutoMapper(typeof(Startup));
+            services.AddAutoMapper(typeof(Startup));//Sempre escrever qual assemble usará
 
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
