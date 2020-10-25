@@ -12,7 +12,7 @@ namespace AppMvcBasica.Models
         // Colocar Id no final já faz com seja a chave estranjeira. Fará o relacionamento do endereço com o fornecedor.
         public Guid FornecedorId { get; set; }
 
-        public string Logadouro { get; set; }
+        public string Logradouro { get; set; }
         public string Numero { get; set; }
         public string Complemento { get; set; }
         public string Cep { get; set; }

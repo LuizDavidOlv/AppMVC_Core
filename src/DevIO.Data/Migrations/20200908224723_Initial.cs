@@ -28,7 +28,7 @@ namespace DevIO.Data.Migrations
                 {
                     Id = table.Column<Guid>(nullable: false),
                     FornecedorId = table.Column<Guid>(nullable: false),
-                    Logadouro = table.Column<string>(type: "varchar(200)", nullable: false),
+                    Logradouro = table.Column<string>(type: "varchar(200)", nullable: false),
                     Numero = table.Column<string>(type: "varchar(50)", nullable: false),
                     Complemento = table.Column<string>(type: "varchar(250)", nullable: false),
                     Cep = table.Column<string>(type: "varchar(8)", nullable: false),

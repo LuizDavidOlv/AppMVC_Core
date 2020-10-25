@@ -48,7 +48,7 @@ namespace DevIO.Data.Migrations
                     b.Property<Guid>("FornecedorId")
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<string>("Logadouro")
+                    b.Property<string>("Logradouro")
                         .IsRequired()
                         .HasColumnType("varchar(200)");
 

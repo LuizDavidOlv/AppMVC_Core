@@ -10,7 +10,7 @@ namespace DevIO.Data.Mapings
         {
             builder.HasKey(p => p.Id);
 
-            builder.Property(p => p.Logadouro)
+            builder.Property(p => p.Logradouro)
                 .IsRequired()
                 .HasColumnType("varchar(200)");
 
