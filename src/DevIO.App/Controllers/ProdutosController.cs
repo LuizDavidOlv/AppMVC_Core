@@ -48,7 +48,7 @@ namespace DevIO.App.Controllers
         public async Task<IActionResult> Create()
         {
             var produtoViewModel = await PopularFornecedores(new ProdutoViewModel());
-            return View();
+            return View(produtoViewModel);
         }
 
         // POST: Produtos/Create
@@ -134,13 +134,13 @@ namespace DevIO.App.Controllers
         private async Task<ProdutoViewModel> ObterProduto(Guid id)
         {
             var produto= _mapper.Map<ProdutoViewModel>(await _produtoRepository.ObterProdutoFornecedor(id));
-            produto.Fornecedores = _mapper.Map<IEnumerable<FornecedorViewModel>>(await _produtoRepository.ObterTodos());
+            produto.Fornecedores = _mapper.Map<IEnumerable<FornecedorViewModel>>(await _fonecedorRepository.ObterTodos());
             return produto;
         }
 
         private async Task<ProdutoViewModel> PopularFornecedores(ProdutoViewModel produto)
         {
-            produto.Fornecedores = _mapper.Map<IEnumerable<FornecedorViewModel>>(await _produtoRepository.ObterTodos());
+            produto.Fornecedores = _mapper.Map<IEnumerable<FornecedorViewModel>>(await _fonecedorRepository.ObterTodos());
             return produto;
         }
 
