@@ -4,13 +4,12 @@
     ViewData["Title"] = "Create";
 }
 
-<h1 style="padding-top: 30px">@ViewData["Title"]</h1>
+<h3 style="padding-top: 50px">@ViewData["Title"] </h3>
 
-<h4>ProdutoViewModel</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form encytype="multipart/form-data" asp-action="Create">
+        <form enctype="multipart/form-data" asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="FornecedorId" class="control-label"></label>
@@ -31,14 +30,16 @@
             </div>
 
             <div class="form-group">
-            <label asp-for="ImagemUpload" class="control-label"></label>
-            <div class="custom-file">
-                <input type="file" class="custom-file-input" id="ImagemUpload" asp-for="ImagemUpload">
-                <label data-browse="Procurar" style="width: 400px" class="custom-file-label" for="ImageUpload"></label>
-                <label style="display: none" id="img_nome"></label>
+                <label asp-for="ImagemUpload" class="control-label"></label>
+
+                <div class="custom-file">
+                    <input type="file" class="custom-file-input" id="ImagemUpload" asp-for="ImagemUpload">
+                    <label data-browse="Procurar" style="width: 400px" class="custom-file-label" for="ImagemUpload"></label>
+                    <label style="display: none" id="img_nome"></label>
+                </div>
+
+                <span asp-validation-for="ImagemUpload" class="text-danger"></span>
             </div>
-            <span asp-validation-for="ImagemUpload" class="text-danger"></span>
-        </div>
 
             <div class="form-group">
                 <label asp-for="Valor" class="control-label"></label>
@@ -52,14 +53,12 @@
             </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
+                <a class="btn btn-info" asp-action="Index">Voltar</a>
             </div>
         </form>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
