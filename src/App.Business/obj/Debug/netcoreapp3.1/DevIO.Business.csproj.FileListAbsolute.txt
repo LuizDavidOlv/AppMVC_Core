@@ -16,3 +16,12 @@ C:\Users\ldavidda\Documents\Arquivos\dotNetCore\AppCompleta\src\App.Business\obj
 C:\Users\ldavidda\Documents\Arquivos\dotNetCore\AppCompleta\src\App.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csproj.CoreCompileInputs.cache
 C:\Users\ldavidda\Documents\Arquivos\dotNetCore\AppCompleta\src\App.Business\obj\Debug\netcoreapp3.1\DevIO.Business.dll
 C:\Users\ldavidda\Documents\Arquivos\dotNetCore\AppCompleta\src\App.Business\obj\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Arquivos\dotNet\AppCompleta2\src\App.Business\bin\Debug\netcoreapp3.1\DevIO.Business.deps.json
+C:\Arquivos\dotNet\AppCompleta2\src\App.Business\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Arquivos\dotNet\AppCompleta2\src\App.Business\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Arquivos\dotNet\AppCompleta2\src\App.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csprojAssemblyReference.cache
+C:\Arquivos\dotNet\AppCompleta2\src\App.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfoInputs.cache
+C:\Arquivos\dotNet\AppCompleta2\src\App.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs
+C:\Arquivos\dotNet\AppCompleta2\src\App.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Arquivos\dotNet\AppCompleta2\src\App.Business\obj\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Arquivos\dotNet\AppCompleta2\src\App.Business\obj\Debug\netcoreapp3.1\DevIO.Business.pdb

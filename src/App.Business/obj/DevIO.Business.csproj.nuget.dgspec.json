@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta\\src\\App.Business\\DevIO.Business.csproj": {}
+    "C:\\Arquivos\\dotNet\\AppCompleta2\\src\\App.Business\\DevIO.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta\\src\\App.Business\\DevIO.Business.csproj": {
+    "C:\\Arquivos\\dotNet\\AppCompleta2\\src\\App.Business\\DevIO.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta\\src\\App.Business\\DevIO.Business.csproj",
+        "projectUniqueName": "C:\\Arquivos\\dotNet\\AppCompleta2\\src\\App.Business\\DevIO.Business.csproj",
         "projectName": "DevIO.Business",
-        "projectPath": "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta\\src\\App.Business\\DevIO.Business.csproj",
+        "projectPath": "C:\\Arquivos\\dotNet\\AppCompleta2\\src\\App.Business\\DevIO.Business.csproj",
         "packagesPath": "C:\\Users\\ldavidda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ldavidda\\Documents\\Arquivos\\dotNetCore\\AppCompleta\\src\\App.Business\\obj\\",
+        "outputPath": "C:\\Arquivos\\dotNet\\AppCompleta2\\src\\App.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\ldavidda\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -29,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
